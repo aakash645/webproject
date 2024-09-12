@@ -1,0 +1,5 @@
+.rounded-div{
+    display: grid;
+    place-items: center;
+    margin-top: 1rem;
+}
